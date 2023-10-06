@@ -1,0 +1,4 @@
+[submodule "learn-git-1"]
+	path = learn-git-1
+	url = https://github.com/uhSuiL/learn-git-1.git
+    branch = main
